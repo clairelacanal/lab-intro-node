@@ -4,7 +4,8 @@ class SortedList {
     this.length = 0;
   }
 
-  add(item) {}
+  add(item) {
+  }
 
   get(pos) {}
 
